@@ -1,0 +1,19 @@
+{
+  "folders": [
+	{
+		"path": "."
+	},
+	{
+		"path": "..\\node.js"
+	},
+	{
+		"path": "..\\testing"
+	},
+	{
+		"path": "..\\Projectwiz"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "Projectwiz"
+  }
+}
